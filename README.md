@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @emilierave
-- 👀 I’m interested in ... coding, painting, music producing
-- 🌱 I’m currently learning ... databases/php/MySQL 
-- 💞️ I’m looking to collaborate on ... new plugins to Wordpress ;)
-- 📫 How to reach me ... emilyplays.com@gmail.com
 - # 💫 About Me:
 👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>🌱 I’m currently learning ... databases/php/MySQL<br>💞️ I’m looking to collaborate on ... new plugins to Wordpress ;)<br>📫 How to reach me ... emilyplays.com@gmail.com<br>
 
@@ -20,10 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emilierave&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=emilierave&icon=6&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
