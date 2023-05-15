@@ -1,5 +1,8 @@
 - # 💫 About Me:
-👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>🌱 I’m currently learning ... databases/php/MySQL<br>💞️ I’m looking to collaborate on ... new plugins to Wordpress ;)<br>📫 How to reach me ... emilyplays.com@gmail.com<br>
+👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>
+🌱 I’m currently learning ... UX/UI<br>
+💞️ I’m looking to collaborate on ... AMAZING and refreshing designs<br>
+📫 How to reach me ... mvriaemiliv@gmail.com<br>
 
 
 ## 🌐 Socials:
