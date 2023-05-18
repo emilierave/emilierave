@@ -1,4 +1,6 @@
-- # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=40&pause=1000&color=E53AF77E&width=600&height=100&lines=I+have+a+dream;I+want+to+be+a+good+developer)](https://git.io/typing-svg)
+
+## 💫 About Me:
 👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>
 🌱 I’m currently learning ... UX/UI<br>
 💞️ I’m looking to collaborate on ... AMAZING and refreshing designs<br>
