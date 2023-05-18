@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F74EEB8B&center=true&vCenter=true&width=435&lines=I+have+a+dream;I+want+to+be+a+good+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F74EEB8B&width=435&lines=I+have+a+dream;I+want+to+be+a+good+developer)](https://git.io/typing-svg)
 
-## 💫 About Me:
+- # 💫 About Me:
 👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>
 🌱 I’m currently learning ... UX/UI<br>
 💞️ I’m looking to collaborate on ... AMAZING and refreshing designs<br>
