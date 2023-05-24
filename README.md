@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F74EEB8B&width=435&lines=
-Hi;I+want+to+be+a+good+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=F75FE2B4&width=435&lines=Hello!+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
 - # 💫 About Me:
 👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>
