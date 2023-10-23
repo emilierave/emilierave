@@ -4,7 +4,7 @@
 👋 Hi, I’m @emilierave<br>👀 I’m interested in ... coding, painting, music producing<br>
 🌱 I’m currently learning ... UX/UI<br>
 💞️ I’m looking to collaborate on ... AMAZING and refreshing designs<br>
-📫 How to reach me ... mvriaemiliv@gmail.com<br>
+📫 How to reach me ... mariedwie@gmail.com<br>
 
 
 ## 🌐 Socials:
